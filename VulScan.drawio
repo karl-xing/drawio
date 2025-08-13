@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
+  <diagram id="Qag0GJBYdByks3d9hgRD" name="第 1 页">
+    <mxGraphModel dx="1418" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Software" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="70" y="421.5" width="164" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Concept Validation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="110" y="820" width="195" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Stakeholder Review" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.36;entryY=0;" parent="1" source="2" target="14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="234" y="320" width="50" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-34" value="Raw Code" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="284" y="290" width="152" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2rpSitwcuH7qXaecnPnE-35" target="2rpSitwcuH7qXaecnPnE-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-35" value="Binary" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="284" y="550" width="152" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-38" value="Vulnerability Scanning Report" style="whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="547" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-40" value="SBOM" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="284" y="421.5" width="152" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-43" value="SBOM" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="500" y="290" width="110" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpSitwcuH7qXaecnPnE-44" value="Vulnerability Scanning Report" style="whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="547" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
